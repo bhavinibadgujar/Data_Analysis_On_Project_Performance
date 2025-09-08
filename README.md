@@ -1,4 +1,4 @@
-Data Analysis on Project Performance
+Data Analysis on Product Performance
 
 📌 Overview
 This project analyzes the performance of multiple products across categories, brands, and sales channels.
